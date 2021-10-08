@@ -1,1 +1,1 @@
-Using git from the ubuntu terminal for the first time.
+Using git from ubuntu terminal for the first time.
